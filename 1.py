@@ -1,0 +1,1 @@
+print("Name: Artyom Galichenko\ne-mail: artyg7lul@gmail.com")
