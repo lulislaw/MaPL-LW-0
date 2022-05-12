@@ -5,3 +5,4 @@ chaevix = summa * 0.18
 nalog = summa * 0.20
 
 print("Налог:", format(nalog, '.2f'),"\nЧаевые:", format(chaevix, '.2f'), "\nИтог:", format(chaevix+nalog, '.2f'))
+# Вывод с учетом формата где '.2f' означает float с точностью до 2

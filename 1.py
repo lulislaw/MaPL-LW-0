@@ -1,1 +1,1 @@
-print("Name: Artyom Galichenko\ne-mail: artyg7lul@gmail.com")
+print("Name: Artyom Galichenko\ne-mail: artyg7lul@gmail.com") # print == вывод
